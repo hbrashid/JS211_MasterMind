@@ -32,6 +32,7 @@ const generateHint = () =>  {
   // your code here
 }
 
+const solution = 'abcd';
 const mastermind = (guess) => {
   solution = 'abcd'; // Comment this out to generate a random solution
   // your code here
